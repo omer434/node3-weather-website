@@ -1,3 +1,5 @@
+console.log('Client side javsacript is up and running');
+
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('#txtSearch');
 
